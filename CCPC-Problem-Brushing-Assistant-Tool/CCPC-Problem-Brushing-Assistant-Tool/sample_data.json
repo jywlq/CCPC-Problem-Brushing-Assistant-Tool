@@ -1,0 +1,22 @@
+{
+  "records": [
+    {"title": "P1001", "tag": "动态规划", "passed": false, "minutes": 70},
+    {"title": "P1002", "tag": "动态规划", "passed": false, "minutes": 80},
+    {"title": "P1003", "tag": "动态规划", "passed": true, "minutes": 60},
+    {"title": "P1004", "tag": "计算几何", "passed": false, "minutes": 75},
+    {"title": "P1005", "tag": "计算几何", "passed": false, "minutes": 65},
+    {"title": "P1006", "tag": "计算几何", "passed": true, "minutes": 58},
+    {"title": "P1007", "tag": "图论", "passed": true, "minutes": 35},
+    {"title": "P1008", "tag": "图论", "passed": true, "minutes": 40},
+    {"title": "P1009", "tag": "图论", "passed": false, "minutes": 45},
+    {"title": "P1010", "tag": "贪心", "passed": true, "minutes": 22},
+    {"title": "P1011", "tag": "贪心", "passed": true, "minutes": 25},
+    {"title": "P1012", "tag": "贪心", "passed": true, "minutes": 20},
+    {"title": "P1013", "tag": "字符串", "passed": true, "minutes": 28},
+    {"title": "P1014", "tag": "字符串", "passed": false, "minutes": 36},
+    {"title": "P1015", "tag": "数学", "passed": true, "minutes": 32},
+    {"title": "P1016", "tag": "数学", "passed": true, "minutes": 30},
+    {"title": "P1017", "tag": "二分", "passed": true, "minutes": 26},
+    {"title": "P1018", "tag": "动态规划", "passed": false, "minutes": 72}
+  ]
+}
